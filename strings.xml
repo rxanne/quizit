@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="questions_nquestion" />
+    <string name="option1" />
+    <string name="option2" />
+    <string name="option3" />
+    <string name="restart_quiz">Restart Quiz</string>
+
+</resources>
